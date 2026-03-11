@@ -127,8 +127,8 @@ Hard-won patterns from production use (see full list in [AGENTS.md](AGENTS.md)):
 
 If you want to support Alfred's development:
 - Star this repo
-- [GitHub Sponsors](https://github.com/sponsors/alfredbotai) (coming soon)
-- ETH/Base: `[wallet address coming soon]`
+- [GitHub Sponsors](https://github.com/sponsors/alfredbotai)
+- ETH/Base: `0x0B501951561aed9321AcA0F4f5A1d58e62b1378E`
 
 ## Built By
 
